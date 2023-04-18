@@ -1,1 +1,47 @@
 server/.venv/
+server/lets_do_it/__pycache__
+
+# Miscellaneous
+client/lets_do_it/*.class
+client/lets_do_it/*.log
+client/lets_do_it/*.pyc
+client/lets_do_it/*.swp
+client/lets_do_it/.DS_Store
+client/lets_do_it/.atom/
+client/lets_do_it/.buildlog/
+client/lets_do_it/.history
+client/lets_do_it/.svn/
+client/lets_do_it/migrate_working_dir/
+
+# IntelliJ related
+client/lets_do_it/*.iml
+client/lets_do_it/*.ipr
+client/lets_do_it/*.iws
+client/lets_do_it/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+client/lets_do_it/**/doc/api/
+client/lets_do_it/**/ios/Flutter/.last_build_id
+client/lets_do_it/.dart_tool/
+client/lets_do_it/.flutter-plugins
+client/lets_do_it/.flutter-plugins-dependencies
+client/lets_do_it/.packages
+client/lets_do_it/.pub-cache/
+client/lets_do_it/.pub/
+client/lets_do_it/build/
+
+# Symbolication related
+client/lets_do_it/app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+client/lets_do_it/android/app/debug
+client/lets_do_it/android/app/profile
+client/lets_do_it/android/app/release
